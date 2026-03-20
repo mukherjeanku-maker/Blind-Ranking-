@@ -1,0 +1,5 @@
+{
+  "name": "IPL Blind Ranker",
+  "description": "A 1-by-1 blind ranking game where users rank IPL players based on intuition and reveal the true ranking at the end.",
+  "requestFramePermissions": []
+}
